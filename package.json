@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LIRI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgrca/LIRI-Node-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgrca/LIRI-Node-App/issues"
+  },
+  "homepage": "https://github.com/michaelgrca/LIRI-Node-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
